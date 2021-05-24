@@ -9,6 +9,7 @@ Library-app es una aplicación web realizada con React, MongoDB, Express y NodeJ
 - Paginación: Entre más libros agregados, se habilitarán diferentes páginas para su mejor visualización.
 
 Video demostrativo: www.youtube.com
+
 Online host: https://library-app-full.netlify.app/posts
 
 ## Instalación
