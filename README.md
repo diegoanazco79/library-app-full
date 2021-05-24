@@ -8,7 +8,7 @@ Library-app es una aplicación web realizada con React, MongoDB, Express y NodeJ
 - Buscador: Buscar los libros por categorías y por título del libro.
 - Paginación: Entre más libros agregados, se habilitarán diferentes páginas para su mejor visualización.
 
-Video demostrativo: www.youtube.com
+Video demostrativo: https://www.youtube.com/watch?v=_H0XDIW79wE
 
 Online host: https://library-app-full.netlify.app/posts
 
